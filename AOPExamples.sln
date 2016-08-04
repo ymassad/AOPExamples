@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.CQS", "AOP.CQS\AOP.CQS.csproj", "{B9281DDA-ADBD-463B-9BEE-923B7E5000CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQS", "CQS\CQS.csproj", "{8DAEEECC-FF1D-4E1A-98A8-17544DCCABF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.Common", "AOP.Common\AOP.Common.csproj", "{2555A1C6-34DA-443B-A5EA-F5D8540ECCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.CQS", "Application.CQS\Application.CQS.csproj", "{61A19728-9DF4-4B7F-A2F6-2D180A18F18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.CastleDynamicProxy", "AOP.CastleDynamicProxy\AOP.CastleDynamicProxy.csproj", "{3CAA8B31-A28E-4440-82A7-AE3EF1135A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.CastleDynamicProxy", "Application.CastleDynamicProxy\Application.CastleDynamicProxy.csproj", "{2873BD31-EEE0-4018-9AB9-3418CD93C2A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9281DDA-ADBD-463B-9BEE-923B7E5000CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9281DDA-ADBD-463B-9BEE-923B7E5000CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9281DDA-ADBD-463B-9BEE-923B7E5000CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9281DDA-ADBD-463B-9BEE-923B7E5000CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAEEECC-FF1D-4E1A-98A8-17544DCCABF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAEEECC-FF1D-4E1A-98A8-17544DCCABF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAEEECC-FF1D-4E1A-98A8-17544DCCABF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAEEECC-FF1D-4E1A-98A8-17544DCCABF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2555A1C6-34DA-443B-A5EA-F5D8540ECCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2555A1C6-34DA-443B-A5EA-F5D8540ECCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2555A1C6-34DA-443B-A5EA-F5D8540ECCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2555A1C6-34DA-443B-A5EA-F5D8540ECCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A19728-9DF4-4B7F-A2F6-2D180A18F18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A19728-9DF4-4B7F-A2F6-2D180A18F18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A19728-9DF4-4B7F-A2F6-2D180A18F18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A19728-9DF4-4B7F-A2F6-2D180A18F18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAA8B31-A28E-4440-82A7-AE3EF1135A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAA8B31-A28E-4440-82A7-AE3EF1135A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAA8B31-A28E-4440-82A7-AE3EF1135A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAA8B31-A28E-4440-82A7-AE3EF1135A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2873BD31-EEE0-4018-9AB9-3418CD93C2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2873BD31-EEE0-4018-9AB9-3418CD93C2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2873BD31-EEE0-4018-9AB9-3418CD93C2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2873BD31-EEE0-4018-9AB9-3418CD93C2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
